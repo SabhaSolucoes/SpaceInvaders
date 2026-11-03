@@ -1,6 +1,6 @@
 # Space Invaders (edição browser)
 
-Homenagem ao clássico de 1978, rodando no navegador. Mesma arquitetura do River Raid: Vite + TypeScript + Canvas 2D, sem dependências em runtime.
+Homenagem ao clássico de 1978, rodando no navegador. Arquitetura: Vite + TypeScript + Canvas 2D, sem dependências em runtime.
 
 ## Rodar
 
